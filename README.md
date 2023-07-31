@@ -1,0 +1,1 @@
+# AnalisisTimeSeries_IndeksPembangunanManusia_2023
